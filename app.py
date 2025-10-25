@@ -192,7 +192,7 @@ if selected == "Download Report":
                     elements.append(Spacer(1, 12))
                 else:
                     elements.append(Paragraph(f"Consumption: {data['kwh']:.2f} kWh<br/>"
-                                              f"CO₂ Emissions: {data['co2']:.3f} kg<br/>"
+                                              f"CO_2 Emissions: {data['co2']:.3f} kg<br/>"
                                               f"Estimated Cost: €{data['cost']:.2f}"
                                               , styles['Normal']))
                     elements.append(Spacer(1, 12))
