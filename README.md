@@ -41,7 +41,7 @@ It also estimates cost and CO₂ emissions, providing an interactive dashboard a
 git clone https://github.com/auric858/EnerVisionAI.git
 
 **Navigate into the folder** :
-cd <repo-name>
+cd =>repo_name<=
 
 **Install dependencies**: 
 pip install -r requirements.txt
