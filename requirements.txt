@@ -1,0 +1,8 @@
+streamlit
+numpy
+streamlit-option-menu
+reportlab
+tensorflow
+pandas
+scikit-learn
+
