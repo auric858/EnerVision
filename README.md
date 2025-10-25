@@ -1,6 +1,6 @@
 # **⚡ EnerVisionAI – Smart Energy Consumption Predictor**
 
-EnerVision is an AI-powered web app that predicts hourly, daily, and monthly energy consumption based on key electrical and environmental parameters.
+EnerVisionAI is an AI-powered web app that predicts hourly, daily, and monthly energy consumption based on key electrical and environmental parameters.
 It also estimates cost and CO₂ emissions, providing an interactive dashboard and downloadable PDF reports.
 **(Link:https://enervisionai.streamlit.app/)**
 # Author
@@ -38,7 +38,7 @@ It also estimates cost and CO₂ emissions, providing an interactive dashboard a
 
 # Installation
 **Clone this repository** :
-git clone https://github.com/auric858/EnerVision.git
+git clone https://github.com/auric858/EnerVisionAI.git
 
 **Navigate into the folder** :
 cd <repo-name>
