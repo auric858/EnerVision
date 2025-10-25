@@ -186,7 +186,7 @@ if selected == "Download Report":
                 elements.append(Paragraph(f"<b>{title}</b>", styles['Heading2']))
                 if title=="Hourly Prediction" and data["warning"]!="":
                     elements.append(Paragraph(f"Consumption: {data['kwh']:.2f} kWh<br/>"
-                                              f"CO₂ Emissions: {data['co2']:.3f} kg<br/>"
+                                              f"CO_2 Emissions: {data['co2']:.3f} kg<br/>"
                                               f"Estimated Cost: €{data['cost']:.2f}<br/>"
                                               f"{data["warning"]}", styles['Normal']))
                     elements.append(Spacer(1, 12))
