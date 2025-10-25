@@ -2,7 +2,7 @@
 
 EnerVision is an AI-powered web app that predicts hourly, daily, and monthly energy consumption based on key electrical and environmental parameters.
 It also estimates cost and CO₂ emissions, providing an interactive dashboard and downloadable PDF reports.
-**(Link:https://enervision.streamlit.app/)**
+**(Link:https://enervisionai.streamlit.app/)**
 # Author
 **Auric Dutt** | 
 💼 LinkedIn: https://www.linkedin.com/in/auric-dutt-4573b4241/
