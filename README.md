@@ -1,4 +1,4 @@
-# **⚡ EnerVision – Smart Energy Consumption Predictor**
+# **⚡ EnerVisionAI – Smart Energy Consumption Predictor**
 
 EnerVision is an AI-powered web app that predicts hourly, daily, and monthly energy consumption based on key electrical and environmental parameters.
 It also estimates cost and CO₂ emissions, providing an interactive dashboard and downloadable PDF reports.
