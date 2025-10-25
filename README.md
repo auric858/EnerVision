@@ -2,7 +2,10 @@
 
 EnerVision is an AI-powered web app that predicts hourly, daily, and monthly energy consumption based on key electrical and environmental parameters.
 It also estimates cost and CO₂ emissions, providing an interactive dashboard and downloadable PDF reports.
-
+# Author
+**Auric Dutt** | 
+💼 LinkedIn: https://www.linkedin.com/in/auric-dutt-4573b4241/
+  | 📧 Gmail: auricdutt047@gmail.com
 # Features
 
 **>** Predict Hourly, Daily, or Monthly energy usage
@@ -17,10 +20,10 @@ It also estimates cost and CO₂ emissions, providing an interactive dashboard a
 
 # Tech Stack
 
-Frontend: Streamlit
-Backend: Python 3
-Libraries: scikit-learn, TensorFlow, pandas, numpy, reportlab
-Deployment: Streamlit Community Cloud
+**Frontend**: Streamlit | 
+**Backend**: Python 3 | 
+**Libraries**: scikit-learn, TensorFlow, pandas, numpy, reportlab | 
+**Deployment**: Streamlit Community Cloud
 
 # How to Use
 
@@ -32,15 +35,15 @@ Deployment: Streamlit Community Cloud
 
 4) Download your PDF Summary Report.
 
-#  Installation
-## Clone this repository
-git clone 
+# Installation
+**Clone this repository** :
+git clone https://github.com/auric858/EnerVision.git
 
-# Navigate into the folder
+**Navigate into the folder** :
 cd <repo-name>
 
-# Install dependencies
+**Install dependencies**: 
 pip install -r requirements.txt
 
-# Run the app
+**Run the app**: 
 streamlit run app.py
